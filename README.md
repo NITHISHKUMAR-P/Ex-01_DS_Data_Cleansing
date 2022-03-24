@@ -1,6 +1,5 @@
 # Ex-01_DS_Data_Cleansing
 
-
 ## AIM:
 To read the given data and perform data cleaning and save the cleaned data to a file. 
 
@@ -40,5 +39,7 @@ print("Cleaned Data:")
 print(df.isnull().sum())
 df.to_csv('data.csv', index=False)
 ```
-# OUPUT:
+# OUTPUT:
 ![](./out.PNG)
+# RESULT:
+Thus the given data is read cleaned and the cleaned data has been saved to the file. 

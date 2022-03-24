@@ -40,6 +40,6 @@ print(df.isnull().sum())
 df.to_csv('data.csv', index=False)
 ```
 # OUTPUT:
-![](./out.PNG)
+![](./out1.PNG)
 # RESULT:
 Thus the given data is read cleaned and the cleaned data has been saved to the file. 
